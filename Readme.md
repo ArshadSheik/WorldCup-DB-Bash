@@ -5,9 +5,9 @@
     1. Create database and connect to it.
     2. Create tables as required conditions.
     3. Primary Key and Foreign Key assignment.
-    4. Fill the tables with data available in `games.csv` using bash.
-    5. Complete `insert_data.sh` and `queries.sh`.
-    6. Compact queries into `worldcup.sql` file.
+    4. Fill the tables with data available in games.csv using bash.
+    5. Complete insert_data.sh and queries.sh.
+    6. Compact queries into worldcup.sql file.
 
 
 #### Documentation can be found on :[https://github.com/ArshadSheik/WorldCup-DB-Bash](https://github.com/ArshadSheik/WorldCup-DB-Bash) 
