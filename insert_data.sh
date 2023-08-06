@@ -20,7 +20,7 @@ do
     # if not found
     if [[ -z $WINNER_ID ]]
     then
-      # insert major
+      # insert winner
       INSERT_WINNER_RESULT=$($PSQL "INSERT INTO teams(name) VALUES('$WINNER')")
       if [[ $INSERT_WINNER_RESULT == "INSERT 0 1" ]]
       then
